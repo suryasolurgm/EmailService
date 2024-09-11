@@ -8,11 +8,11 @@
         <version>3.2.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>dev.naman</groupId>
-    <artifactId>emailServiceMWFEve</artifactId>
+    <groupId>dev.surya</groupId>
+    <artifactId>emailService</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>emailServiceMWFEve</name>
-    <description>emailServiceMWFEve</description>
+    <name>emailService</name>
+    <description>emailService</description>
     <properties>
         <java.version>17</java.version>
     </properties>

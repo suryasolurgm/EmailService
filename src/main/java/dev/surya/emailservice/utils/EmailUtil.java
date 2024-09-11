@@ -1,4 +1,4 @@
-package dev.naman.emailservicemwfeve.utils;
+package dev.surya.emailservice.utils;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Date;

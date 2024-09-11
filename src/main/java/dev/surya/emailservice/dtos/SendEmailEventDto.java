@@ -1,4 +1,4 @@
-package dev.naman.emailservicemwfeve.dtos;
+package dev.surya.emailservice.dtos;
 
 import lombok.Getter;
 import lombok.Setter;

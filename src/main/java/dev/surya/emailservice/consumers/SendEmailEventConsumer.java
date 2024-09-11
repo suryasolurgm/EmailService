@@ -1,9 +1,9 @@
-package dev.naman.emailservicemwfeve.consumers;
+package dev.surya.emailservice.consumers;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import dev.naman.emailservicemwfeve.dtos.SendEmailEventDto;
-import dev.naman.emailservicemwfeve.utils.EmailUtil;
+import dev.surya.emailservice.dtos.SendEmailEventDto;
+import dev.surya.emailservice.utils.EmailUtil;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;
 
